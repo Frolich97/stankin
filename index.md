@@ -1,9 +1,9 @@
 ## Добро пожаловать!
 
 Немного ссылок:
-https://github.com/Frolich97
-https://github.com/Frolich97/stankin
-https://frolich97.github.io/stankin/
+https://github.com/Frolich97 <br>
+https://github.com/Frolich97/stankin <br>
+https://frolich97.github.io/stankin/<br>
 
 Фролов Н.А. ИДМ-18-03
 
