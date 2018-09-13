@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Добро пожаловать!
 
-You can use the [editor on GitHub](https://github.com/Frolich97/stankin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Немного ссылок:
+https://github.com/Frolich97
+https://github.com/Frolich97/stankin
+https://frolich97.github.io/stankin/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Фролов Н.А. ИДМ-18-03
 
 ### Markdown
 
