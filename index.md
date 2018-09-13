@@ -1,6 +1,6 @@
 ## Добро пожаловать!
 
-Немного ссылок:
+Немного ссылок:<br>
 https://github.com/Frolich97 <br>
 https://github.com/Frolich97/stankin <br>
 https://frolich97.github.io/stankin/<br>
